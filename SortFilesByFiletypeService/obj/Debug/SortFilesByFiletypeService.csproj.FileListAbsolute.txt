@@ -1,0 +1,10 @@
+C:\Users\deigre\C# Solutions\SortFilesByFiletypeService\SortFilesByFiletypeService\bin\Debug\SortFilesByFiletypeService.exe.config
+C:\Users\deigre\C# Solutions\SortFilesByFiletypeService\SortFilesByFiletypeService\bin\Debug\SortFilesByFiletypeService.exe
+C:\Users\deigre\C# Solutions\SortFilesByFiletypeService\SortFilesByFiletypeService\bin\Debug\SortFilesByFiletypeService.pdb
+C:\Users\deigre\C# Solutions\SortFilesByFiletypeService\SortFilesByFiletypeService\bin\Debug\Topshelf.dll
+C:\Users\deigre\C# Solutions\SortFilesByFiletypeService\SortFilesByFiletypeService\bin\Debug\Topshelf.xml
+C:\Users\deigre\C# Solutions\SortFilesByFiletypeService\SortFilesByFiletypeService\obj\Debug\SortFilesByFiletypeService.csprojAssemblyReference.cache
+C:\Users\deigre\C# Solutions\SortFilesByFiletypeService\SortFilesByFiletypeService\obj\Debug\SortFilesByFiletypeService.csproj.CoreCompileInputs.cache
+C:\Users\deigre\C# Solutions\SortFilesByFiletypeService\SortFilesByFiletypeService\obj\Debug\SortFilesByFiletypeService.csproj.CopyComplete
+C:\Users\deigre\C# Solutions\SortFilesByFiletypeService\SortFilesByFiletypeService\obj\Debug\SortFilesByFiletypeService.exe
+C:\Users\deigre\C# Solutions\SortFilesByFiletypeService\SortFilesByFiletypeService\obj\Debug\SortFilesByFiletypeService.pdb
