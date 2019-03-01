@@ -17,12 +17,12 @@ Usage
 
 3. Inside yourPath\SortFilesByFiletypeService\bin\Debug you will find a file called SortFilesByFiletypeService.exe
 
-4. To start the service 
+4. Start the service with the following cmd command
 
 ```bash
   SortFilesByFiletypeService.exe install start
 ```
-5. To unistall the service 
+5. Unistall the service with the following cmd command
 
 ```bash
  SortFilesByFiletypeService.exe  uninstall
