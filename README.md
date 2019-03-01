@@ -13,8 +13,9 @@ Usage
 
 1. Change directory path pointing to the folder you want to apply the service
 
-   cd src
-    javac *.java
+   At app.config change lines 8 - 12 with your path
+
+2.Compile the solution using Visual Studio
 
 
 
